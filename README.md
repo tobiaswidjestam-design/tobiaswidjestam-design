@@ -18,7 +18,7 @@ The C64 look is the house style, not the job description. ☕
 
 | Project | What it is |
 |---|---|
-| [Lexicon-workshops](https://github.com/tobiaswidjestam-design/Lexicon-workshops) | Flowcharts, pseudocode and Java exercises |
+| [Lexicon-workshops](https://github.com/tobiaswidjestam-design/Lexicon-workshops) | 56 Java exercises and weekly workshops — collections, OOP, Maven builds |
 | [Lexicon-Tobias-Widjestam](https://github.com/tobiaswidjestam-design/Lexicon-Tobias-Widjestam) | Course documentation: the Java toolchain I set up |
 
 ### Other projects
