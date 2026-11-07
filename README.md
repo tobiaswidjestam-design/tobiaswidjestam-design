@@ -12,6 +12,11 @@ The C64 look is the house style, not the job description. ☕
 
 ---
 
+### Currently building
+
+**[Ingela & Sofie — the game](https://github.com/tobiaswidjestam-design/IngelaAndSofieTheGame)** *(private while in development)*<br>
+A small 2D game in JavaScript — hand-drawn characters, sprite sheets, animation and sound.
+
 ### What I'm working on
 
 | Project | What it is |
