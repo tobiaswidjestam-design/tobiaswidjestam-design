@@ -4,9 +4,9 @@
 
 ## Hi, I'm Tobias
 
-I build small, sharp tools and take things apart until I understand how they work.
-Most of what ends up here is **backend and tooling**: C++, Java, JavaFX, Maven, builds,
-MySQL, Docker, IntelliJ IDEA — and a fair amount of **computing** on the side.
+Java fullstack student at Lexicon, currently in week 5. I build small, sharp tools
+and take things apart until I understand how they work — course exercises, a Java
+weather app, and a fair amount of computing on the side.
 
 The C64 look is the house style, not the job description. ☕
 
@@ -28,17 +28,20 @@ The C64 look is the house style, not the job description. ☕
 | IngelaAndSofieTheGame | A small 2D game in C++ — hand-drawn characters, sprite sheets, animation and sound *(private while in development)* |
 | AphexMediaPlayer | A modern media player written in C++ |
 
-### Toolbox
+### Working with
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=flat-square&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+### Currently learning
+
+![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### How I work
 
