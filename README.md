@@ -17,9 +17,7 @@ The C64 look is the house style, not the job description. ☕
 | Project | What it is |
 |---|---|
 | [c64-launchbox-launcher](https://github.com/tobiaswidjestam-design/c64-launchbox-launcher) | A small C# launcher that lets LaunchBox start Commodore 64 games in VICE when each game is a zip with several files |
-| [Java-Exercises-1](https://github.com/tobiaswidjestam-design/Java-Exercises-1) | Java practice from my developer course |
 | [Lexicon-Tobias-Widjestam](https://github.com/tobiaswidjestam-design/Lexicon-Tobias-Widjestam) | Course documentation: the toolchain I set up for Java development |
-| [Lexicon-workshops](https://github.com/tobiaswidjestam-design/Lexicon-workshops) | Workshop material and exercises |
 
 ### Toolbox
 
