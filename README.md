@@ -5,7 +5,7 @@
 ## Hi, I'm Tobias
 
 Java fullstack student at Lexicon. I build small, sharp tools and take things apart until
-I understand how they work — course exercises from the programme.
+I understand how they work — course exercises from the program.
 
 On my own time I like to build my own tools and apps: c64-launchbox-launcher, a Java
 weather app, IngelaAndSofieTheGame and AphexMediaPlayer. And more :)
