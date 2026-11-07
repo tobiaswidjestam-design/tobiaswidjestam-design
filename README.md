@@ -27,7 +27,7 @@ The C64 look is the house style, not the job description. ☕
 |---|---|
 | [RyssbyVader](https://github.com/tobiaswidjestam-design/RyssbyVader) | A personal weather app for Ryssby — Java Swing desktop and an Android build, made as a side project with AI assistance |
 | [c64-launchbox-launcher](https://github.com/tobiaswidjestam-design/c64-launchbox-launcher) | A small C# launcher that lets LaunchBox start Commodore 64 games in VICE when each game is a zip with several files |
-| IngelaAndSofieTheGame | A small 2D game in C++ — hand-drawn characters, sprite sheets, animation and sound *(private while in development)* |
+| IngelaAndSofieTheGame | A 2D game in C++ — hand-drawn characters, sprite sheets, animation and sound *(private while in development)* |
 | AphexMediaPlayer | A modern media player written in C++ |
 
 ### Working with
