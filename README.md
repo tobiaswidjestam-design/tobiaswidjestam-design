@@ -6,7 +6,7 @@
 
 I build small, sharp tools and take things apart until I understand how they work.
 Most of what ends up here is **backend and tooling**: C++, Java, JavaFX, Maven, builds,
-MySQL, Docker, IntelliJ IDEA — and a fair amount of **retro computing** on the side.
+MySQL, Docker, IntelliJ IDEA — and a fair amount of **computing** on the side.
 
 The C64 look is the house style, not the job description. ☕
 
