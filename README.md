@@ -19,7 +19,6 @@ The C64 look is the house style, not the job description. ☕
 | RyssbyVader / JavaPrj | Java GUI with a weather service, build and launch scripts, and an Android APK *(private)* |
 | [Lexicon-workshops](https://github.com/tobiaswidjestam-design/Lexicon-workshops) | Flowcharts, pseudocode and Java exercises |
 | [Lexicon-Tobias-Widjestam](https://github.com/tobiaswidjestam-design/Lexicon-Tobias-Widjestam) | Course documentation: the Java toolchain I set up |
-| fullstack-kurs | Course repository *(private)* |
 
 ### Other projects
 
