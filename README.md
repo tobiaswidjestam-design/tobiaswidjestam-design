@@ -4,9 +4,9 @@
 
 ## Hi, I'm Tobias
 
-Java fullstack student at Lexicon. I build small, sharp tools
-and take things apart until I understand how they work — course exercises, a Java
-weather app, and a fair amount of computing on the side.
+Java fullstack student at Lexicon. I build small, sharp tools and take things apart until
+I understand how they work: course exercises from the programme, and on my own time a Java
+weather app plus a fair amount of computing.
 
 The C64 look is the house style, not the job description. ☕
 
