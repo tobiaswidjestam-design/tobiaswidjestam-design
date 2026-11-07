@@ -4,7 +4,7 @@
 
 ## Hi, I'm Tobias
 
-Java fullstack student at Lexicon, currently in week 5. I build small, sharp tools
+Java fullstack student at Lexicon. I build small, sharp tools
 and take things apart until I understand how they work — course exercises, a Java
 weather app, and a fair amount of computing on the side.
 
