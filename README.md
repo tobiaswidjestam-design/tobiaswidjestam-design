@@ -5,7 +5,7 @@
 ## Hi, I'm Tobias
 
 I build small, sharp tools and take things apart until I understand how they work.
-Most of what ends up here is **backend and tooling**: Java and JavaFX, Maven builds,
+Most of what ends up here is **backend and tooling**: C++, Java, JavaFX, Maven, builds,
 MySQL, Docker, IntelliJ IDEA — and a fair amount of **retro computing** on the side.
 
 The C64 look is the house style, not the job description. ☕
