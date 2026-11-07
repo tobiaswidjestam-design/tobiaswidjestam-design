@@ -12,15 +12,23 @@ The C64 look is the house style, not the job description. ☕
 
 ---
 
-### What I'm working on
+### Java & fullstack
+
+| Project | What it is |
+|---|---|
+| RyssbyVader / JavaPrj | Java GUI with a weather service, build and launch scripts, and an Android APK *(private)* |
+| [Java-Exercises-1](https://github.com/tobiaswidjestam-design/Java-Exercises-1) | Maven-based Java exercises from my course |
+| [Lexicon-workshops](https://github.com/tobiaswidjestam-design/Lexicon-workshops) | Flowcharts, pseudocode and Java exercises |
+| [Lexicon-Tobias-Widjestam](https://github.com/tobiaswidjestam-design/Lexicon-Tobias-Widjestam) | Course documentation: the Java toolchain I set up |
+| fullstack-kurs | Course repository *(private)* |
+
+### Other projects
 
 | Project | What it is |
 |---|---|
 | [c64-launchbox-launcher](https://github.com/tobiaswidjestam-design/c64-launchbox-launcher) | A small C# launcher that lets LaunchBox start Commodore 64 games in VICE when each game is a zip with several files |
 | IngelaAndSofieTheGame | A small 2D game in C++ — hand-drawn characters, sprite sheets, animation and sound *(private while in development)* |
 | AphexMediaPlayer | A modern media player written in C++ |
-| [Lexicon-Tobias-Widjestam](https://github.com/tobiaswidjestam-design/Lexicon-Tobias-Widjestam) | Course documentation: the toolchain I set up for Java development |
-| [Lexicon-workshops](https://github.com/tobiaswidjestam-design/Lexicon-workshops) | Course workshops: flowcharts, pseudocode and Java exercises |
 
 ### Toolbox
 
